@@ -1,7 +1,14 @@
 I am student B
+<<<<<<< HEAD
 2번 라인
 
 
 5번 Line
+=======
+
+3번 라인
+
+5번 라인
+>>>>>>> 07baf8f20d9e98e8e11e82aa069ed0aafb6652ea
 
 7번 라인
